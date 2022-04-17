@@ -2,23 +2,15 @@
 
 ### Hi there 👋
 
-I'm **Mir Sobhan**
+I'm **Mir Sobhan**:
+> - 🔭 I’m currently working on [**PyroTemp**](https://github.com/coffeeists/PyroTemp)
+> - 🌱 and  learning **django** and **django rest**
+
+------------------------------
+⚡ Fun fact: 
+> - **random** exactly is **not exits**(think about that)
 <br/>
 <br/>
-<!--
-**MisanoGo/MisanoGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### accounts :
 [:whale: docker](https://hub.docker.com/u/misano)<br/>
