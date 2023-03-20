@@ -4,8 +4,7 @@
 
 I'm **Mir Sobhan**:
 
-> - 🔭 I’m currently working on [**PyroTemp**](https://github.com/coffeeists/PyroTemp)
-> - 🌱 and  learning **django** and **django rest**
+> - 🔭 I’m currently working on [**Gitlin**](https://github.com/misanogo/Gitlin)
 
 ------------------------------
 ⚡ Fun fact: 
